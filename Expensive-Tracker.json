@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"Groceries",
+        "Category":"Food",
+        "Amount(₹)":1250,
+        "Actions":"Delete"
+    },
+    {
+        "id":2,
+        "title":"Bus Pass",
+        "Category":"Travel",
+        "Amount(₹)":450,
+        "Actions":"Delete"
+    },
+    {
+        "id":3,
+        "title":"Movie Ticket",
+        "Category":"Entertainment",
+        "Amount(₹)":500,
+        "Actions":"Delete"
+    },
+    {
+        "id":4,
+        "title":"Shopping",
+        "Category":"Shopping",
+        "Amount(₹)":2500,
+        "Actions":"Delete"
+    },
+    {
+        "id":5,
+        "title":"Electricity Bill",
+        "Category":"Utilities",
+        "Amount(₹)":1800,
+        "Actions":"Delete"
+    },
+    {
+        "id":6,
+        "title":"Books",
+        "Category":"Education",
+        "Amount(₹)":950,
+        "Actions":"Delete"
+    }
+]
